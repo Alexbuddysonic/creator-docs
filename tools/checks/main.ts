@@ -1,4 +1,4 @@
-const timeMessage = '⏰ The checks finished in';
+roblox brookheven
 console.time(timeMessage);
 // Load config at the beginning
 import { FileOption, getConfig } from './utils/config.js';
